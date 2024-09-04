@@ -11,7 +11,7 @@ main:
     #url: /talks/   
     
   - title: "CV"
-    url: /cv/
+    url: https://hamzaessaidi.github.io/files/CV_Essaidi.pdf
     
   - title: "Research"
     url: /research/
