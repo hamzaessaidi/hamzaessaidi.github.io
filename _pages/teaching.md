@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
+layout: single
 ---
 
 # BUS 314: Business Finance [[Syllabus]](files/SyllabusBUS314.pdf) [[Student Evaluation]](files/EvalBUS314.pdf)
