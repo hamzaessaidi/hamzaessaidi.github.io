@@ -7,20 +7,12 @@ layout: single
 
 ## Teaching Experience
 
-<div style="width: 95%;">
 
-| <div style="width: 150px; white-space: nowrap;">Course Code</div> | <div style="width: 150px;">Course Title</div> | <div style="width: 100px;">Syllabus</div> | <div style="width: 120px;">Student Evaluation</div> | Description                                                                                                                                                                                             |
+| Course Code | Course Title | Syllabus | Student Evaluation | Description                                                                                                                                                                                             |
 | :-----------------------------------------: | :-------------------------------------: | :------------------------: | :----------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| BUS 314                                    | Business Finance                       | <div align="center">[PDF](https://hamzaessaidi.github.io/files/SyllabusBUS314.pdf)</div> | <div align="center">[PDF](https://hamzaessaidi.github.io/files/EvalBUS314.pdf)</div> | Introduction to the theory and practice of financial management: analysis and decision making for asset management, capital budgeting, capital structure, and dividend policy. Prerequisite for all other finance courses |
-| BUS 313                                    | International Economics                 | <div align="center">[PDF](https://hamzaessaidi.github.io/files/SyllabusBUS313.pdf)</div> | <div align="center">[PDF](https://hamzaessaidi.github.io/files/EvalBUS313.pdf)</div> | International trade, financial flows, and direct investment. Public and private institutions including government policies and capital markets. Emphasis on Asia Pacific issues, with attention to the cultural differences among countries |
-| INS 300                                    | Principles of Insurance                  | <div align="center">[PDF](https://hamzaessaidi.github.io/files/SyllabusINS300.pdf)</div> | <div align="center">[PDF](https://hamzaessaidi.github.io/files/EvalINS300.pdf)</div> | Risk management and insurance application to business and personal financial decision-making. Introduction to basic risk management concepts and techniques. Analyze various types of insurance: including life, property, casualty, liability, health, disability, and long-term care. |
+| BUS 314                                    | Business Finance                       | [PDF](https://hamzaessaidi.github.io/files/SyllabusBUS314.pdf) | [PDF](https://hamzaessaidi.github.io/files/EvalBUS314.pdf) | Introduction to the theory and practice of financial management: analysis and decision making for asset management, capital budgeting, capital structure, and dividend policy. Prerequisite for all other finance courses |
+| BUS 313                                    | International Economics                 | [PDF](https://hamzaessaidi.github.io/files/SyllabusBUS313.pdf) | [PDF](https://hamzaessaidi.github.io/files/EvalBUS313.pdf) | International trade, financial flows, and direct investment. Public and private institutions including government policies and capital markets. Emphasis on Asia Pacific issues, with attention to the cultural differences among countries |
+| INS 300                                    | Principles of Insurance                  | [PDF](https://hamzaessaidi.github.io/files/SyllabusINS300.pdf) | [PDF](https://hamzaessaidi.github.io/files/EvalINS300.pdf) | Risk management and insurance application to business and personal financial decision-making. Introduction to basic risk management concepts and techniques. Analyze various types of insurance: including life, property, casualty, liability, health, disability, and long-term care. |
 
-</div>
 
-<style>
-td, th {
-  hyphens: auto; /* Enable hyphenation in table cells */
-  vertical-align: middle; /* Vertically center content in cells */
-}
-</style>
 
