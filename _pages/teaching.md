@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-## Teaching Experience
+## Instructor
 
 
 | Course Code | Course Title | Syllabus | Student Evaluation | Description                                                                                                                                                                                             |
@@ -15,4 +15,20 @@ layout: single
 | INS 300                                    | Principles of Insurance                  | [PDF](https://hamzaessaidi.github.io/files/SyllabusINS300.pdf) | [PDF](https://hamzaessaidi.github.io/files/EvalINS300.pdf) | Risk management and insurance application to business and personal financial decision-making. Introduction to basic risk management concepts and techniques. Analyze various types of insurance: including life, property, casualty, liability, health, disability, and long-term care. |
 
 
+## Teaching Assistant
 
+I have also served as a teaching assistant for a number of undergraduate courses and graduate courses for the MBA and Master's of Finance programs.
+
+### MBA and Master's of Finance
+
+*   FIN 633 Problems in Business Finance
+*   FIN 656 Insurance and Risk Management
+*   FIN 653 Portfolio Optimization
+*   FIN 654 Financial Derivatives
+
+### Undergraduate Courses
+
+*   FIN 450 Enterprise Risk Management
+*   FIN 415 Security Analysis & Portfolio Management
+*   FIN 412 Options and Other Derivatives
+*   FIN 311 Investments
