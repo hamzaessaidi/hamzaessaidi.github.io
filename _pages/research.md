@@ -9,7 +9,7 @@ layout: single
 
 ### Inventor's Inequality Aversion [Job Market Paper] 
 
-[[Draft]](files/)
+
 
 *Abstract:* 
 
@@ -23,7 +23,6 @@ layout: single
 
 ### The National Flood Insurance Program, Racial and Ethnic Disparity, and the Pursuit of Environmental Justice
 
-[[Draft]](files/)
 
 *Winner of the 2023 Hagen Award at the ARIA Annual Meeting*
 
@@ -53,9 +52,13 @@ layout: single
 - Southern Risk and Insurance Association (2022)
 
 ---
+### On the Resilience of Managerial Overconfidence
+*Abstract:*
+
+> I examine whether managers’ optimism and over-precision about their ability to adapt when faced with sudden distress, using increased exposure to hurricanes as a proxy. I investigate whether they exhibit greater resilience and, if so, the psychological mechanisms behind it. My findings reveal that risk-taking behavior is the primary driver behind these observations, with only moderate levels of overconfidence exhibiting resilience, suggesting that excessive overconfidence may lead to detrimental risk-taking.
+
+---
 
 ### Other Work in Progress
-
-- On the Resilience of Managerial Overconfidence
 - Does Disaster Aid Spur Innovation? Evidence from Hurricane Strikes
   
