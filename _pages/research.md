@@ -55,7 +55,7 @@ layout: single
 ### On the Resilience of Managerial Overconfidence
 *Abstract:*
 
-> I examine whether managers’ optimism and over-precision about their ability to adapt when faced with sudden distress, using increased exposure to hurricanes as a proxy. I investigate whether they exhibit greater resilience and, if so, the psychological mechanisms behind it. My findings reveal that risk-taking behavior is the primary driver behind these observations, with only moderate levels of overconfidence exhibiting resilience, suggesting that excessive overconfidence may lead to detrimental risk-taking.
+> I examine whether managers’ optimism and over-precision about their ability is resilient when faced with sudden distress, using increased exposure to hurricanes as a proxy. The results reveal a U-shaped relationship: moderate overconfidence is resilient to negative shocks, while both low and high levels are not.
 
 ---
 
