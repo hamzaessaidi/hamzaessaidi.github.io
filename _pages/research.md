@@ -7,7 +7,7 @@ layout: single
 
 ## Research
 
-### Inventor's Inequality Aversion [Job Market Paper] 
+### Inventors' Inequality Aversion: The Unintended Consequences of Pay Ratio Disclosure on Firm Performance [Job Market Paper] 
 
 
 
@@ -16,8 +16,9 @@ layout: single
 > The consequences of income inequality extend beyond social and moral considerations, with tangible economic implications for the long-term performance of companies. This paper examines the causal impact of within-firm inequality on corporate innovation, exploiting the staggered implementation of the SEC’s pay ratio disclosure rule. I find that firms disclosing high pay ratios experience a significant decline in innovation output, driven primarily by increased inventor mobility and decreased productivity, particularly among women, minority, and younger inventors.
 
 *Presentations:* 
-
-- FMA Doctoral Consortium (2024, Scheduled)
+- Hawai'i Accounting Research Conference (2025)
+- Southwestern Finance Association (2025)
+- FMA Doctoral Consortium (2024)
 
 ---
 
@@ -32,7 +33,7 @@ layout: single
 
 *Presentations:*
 
-- Financial Management Association (2024, Scheduled)
+- Financial Management Association (2024)
 - American Risk and Insurance Association (2023)
 - Florida State University RMI Symposium (2023)
 - University of Georgia PhD Symposium (2023)
